@@ -1,1 +1,1 @@
-# BAN6420 Assignment 2
+This project tackles the challenge of managing employee data efficiently. By using Python, it processes salary data, handles errors smoothly, and exports employee profiles in a clean, organized manner. It showcases real-world applications of data processing, file handling, and error management. Perfect for HR and data teams looking to automate tasks and ensure data accuracy.
